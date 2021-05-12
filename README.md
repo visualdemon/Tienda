@@ -1,3 +1,3 @@
 # Tienda
 
-Proyecto HTML, CSS, prospectode tienda en línea.
+Proyecto HTML, CSS, prospecto de tienda en línea.
